@@ -1,0 +1,24 @@
+{
+  "name": "baaaddCatz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "breeds.js",
+  "dependencies": {
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbarchshevskiy/Baaadd_catzz.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sbarchshevskiy/Baaadd_catzz/issues"
+  },
+  "homepage": "https://github.com/sbarchshevskiy/Baaadd_catzz#readme"
+}
