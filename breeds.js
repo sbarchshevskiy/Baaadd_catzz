@@ -1,7 +1,6 @@
 const request = require('request');
 const args = process.argv;
 let argsSlice = args.slice(2);
-const stdout = process.stdout;
 
 const fetch = function(breedname) {
 
@@ -22,3 +21,5 @@ const fetch = function(breedname) {
 };
 
 fetch(argsSlice[0]);
+
+module.exports = { fetch };
